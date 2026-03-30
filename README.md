@@ -1,2 +1,2 @@
-root@896cf839cf9a:/# cd {my-first-reposi}/
-root@896cf839cf9a:/{YOUR_REPO}#
+root@896cf839cf9a:/# cd {my-first-repository}/
+root@896cf839cf9a:/{my-first-repository}#
